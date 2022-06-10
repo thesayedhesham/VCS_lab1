@@ -1,0 +1,18 @@
+	
+	create repo on github
+	ssh url
+	git add remote origin https://github.com/thesayedhesham/VCS_lab1.git
+	git remote -v
+	gedit ElsayedHesham
+	git push origin main
+	git add .
+	git commit -m "ELsayed Hesham"
+	get push origin main
+
+
+
+
+
+
+	git remote rename origin neworigin
+	git pull origin main
